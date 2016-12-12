@@ -1,6 +1,6 @@
-@ST_6878 @Satory_Good
-Feature: Given in all scenarios
-Check Background without given keyword
+@ST_6878 @DIT1 @ZUEC @CJCX
+Feature: IR9JYlDZ1vName
+uyJooyW02bStoryDescription
 
 @SC_45253
 Scenario: 2
