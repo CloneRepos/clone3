@@ -1,6 +1,6 @@
-@ST_6880 @Satory_Bad
-Feature: Given in only one scenario
-  Check Background without given keyword
+@ST_6880 @ILSU @JFTE @QND1
+Feature: fpmB36loGNName
+NI9pc0Ao4fStoryDescription
 
 Background: new name changed
 
