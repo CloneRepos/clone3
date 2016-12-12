@@ -1,6 +1,6 @@
-@ST_6867
-Feature: Name
-For check update from git 
+@ST_6867 @1LYZ @IJXE @83HM
+Feature: M3YZTa8zUpName
+deXvK9AHeSStoryDescription
 
 @SC_45244 @Critical
 Scenario: First scenario
