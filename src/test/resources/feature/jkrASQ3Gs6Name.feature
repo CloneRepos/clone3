@@ -1,3 +1,3 @@
-@ST_6859 @tag1 @tag2 @tag3
-Feature: gtIOUG98GuName
-Check that story can be created.
+@ST_6859 @YOT5 @KTYS @EVKB
+Feature: H0lkQueFPbName
+Ee6LOQlvHVStoryDescription
