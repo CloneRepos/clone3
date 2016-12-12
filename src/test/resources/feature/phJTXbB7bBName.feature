@@ -1,3 +1,3 @@
-@ST_6862 @tag1 @tag2 @tag3
-Feature: 0xOrRjOHbbName
-Check that story can be created.
+@ST_6862 @UT6B @QGPU @5MMY
+Feature: uAdgm4iz10Name
+tgKsUEazpKStoryDescription
