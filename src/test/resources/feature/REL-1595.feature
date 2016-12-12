@@ -1,6 +1,6 @@
-@ST_6865 @tagtagtag @this_is_story_tag
-Feature: Update this name
-I want to see new description
+@ST_6865 @AC3I @BLTG @1TQ6
+Feature: AIyUIktUf8Name
+GjZJ09n9cpStoryDescription
 
 Background: 
 
