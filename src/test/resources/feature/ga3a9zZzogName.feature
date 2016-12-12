@@ -1,3 +1,3 @@
-@ST_6856 @tag1 @tag2 @tag3
-Feature: ilveljNKBWName
-Check that story can be created.
+@ST_6856 @VOQ8 @IHWO @QZYK
+Feature: hGtqWnARpvName
+ybHquHdnJNStoryDescription
