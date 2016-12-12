@@ -1,6 +1,6 @@
-@ST_6879 @Satory_Bad @New_ta
-Feature: only one scenario
-Check Background
+@ST_6879 @ZMNC @JYUZ @HUYP
+Feature: USSETQc2dFName
+o4RukVQ4KVStoryDescription
 
 @SC_45257 @Critical @Test_1
 Scenario: Check scenario
