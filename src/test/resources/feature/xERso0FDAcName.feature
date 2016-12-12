@@ -1,3 +1,3 @@
-@ST_6872 @tag1 @tag2 @tag3
-Feature: pZFTUEVCHoName
-Check that story can be created.
+@ST_6872 @QSSH @I6L4 @H2N2
+Feature: tKiSBtpNlMName
+1zTxtaPGT7StoryDescription
