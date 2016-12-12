@@ -1,3 +1,3 @@
-@ST_6876 @tag1 @tag2 @tag3
-Feature: BIZuvudNHLName
-Check that story can be created.
+@ST_6876 @N85W @XUCR @HAAW
+Feature: 82ct2mq0bwName
+c9iAwxshWzStoryDescription
