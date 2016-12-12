@@ -1,3 +1,3 @@
-@ST_6871 @tag1 @tag2 @tag3
-Feature: JykcacrSD3Name
-Check that story can be created.
+@ST_6871 @CYFX @LRFQ @PETK
+Feature: ZzaqEdncYqName
+JczTEJZiT2StoryDescription
