@@ -1,3 +1,3 @@
-@ST_6863 @tag1 @tag2 @tag3
-Feature: qMlWpvsDBDName
-Check that story can be created.
+@ST_6863 @OVML @VKOL @WKUJ
+Feature: WIXoSJy7MTName
+OAz0DtS7V5StoryDescription
