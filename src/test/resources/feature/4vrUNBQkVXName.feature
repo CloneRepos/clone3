@@ -1,3 +1,3 @@
-@ST_6882 @one @two @three
-Feature: vXfPuSqjr2Name
-Check that story can be created.
+@ST_6882 @GQ5D @NK1C @OZ28
+Feature: or8zWIRjuAName
+lXC2okh0eyStoryDescription
