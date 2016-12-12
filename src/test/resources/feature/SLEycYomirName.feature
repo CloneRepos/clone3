@@ -1,3 +1,3 @@
-@ST_6868 @tag1 @tag2 @tag3
-Feature: kIbBWefg0KName
-Check that story can be created.
+@ST_6868 @GG0O @GHOW @DDUE
+Feature: 5TdPalxiGhName
+WmdVNcGAdbStoryDescription
