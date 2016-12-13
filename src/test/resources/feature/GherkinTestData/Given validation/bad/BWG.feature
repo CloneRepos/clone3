@@ -1,6 +1,6 @@
-@ST_6879 @ZMNC @JYUZ @HUYP
-Feature: USSETQc2dFName
-o4RukVQ4KVStoryDescription
+@ST_6879 @PVF9 @FNGQ @V2ZZ
+Feature: wBAcK5ofwxName
+uwV4ZUrIubStoryDescription
 
 @SC_45257 @Critical @Test_1
 Scenario: Check scenario
