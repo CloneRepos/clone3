@@ -1,3 +1,3 @@
-@ST_6994 @one @two @three
-Feature: k2tU8ugSVqName
-Check that story can be created.
+@ST_6994 @GTX0 @CAMK @VFFG
+Feature: yJ7BsofrUPName
+GdjUzkidOrStoryDescription
