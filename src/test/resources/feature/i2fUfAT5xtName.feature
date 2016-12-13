@@ -1,3 +1,3 @@
-@ST_6992 @yahooo @gooogle @yandexxx
-Feature: 5Ne8qhXaLPName
-Check that story can be created.
+@ST_6992 @XBHY @HLYM @TWPW
+Feature: tHwfONdmNVName
+N1TU7zC7a4StoryDescription
