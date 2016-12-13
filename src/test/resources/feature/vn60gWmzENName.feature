@@ -1,3 +1,3 @@
-@ST_6993 @tag1 @tag2 @tag3
-Feature: Jsyc0EChvPName
-Check that story can be created.
+@ST_6993 @8AMB @WZTK @TUFW
+Feature: t0vUUH86DmName
+VFIDKw0vVRStoryDescription
