@@ -1,3 +1,3 @@
-@ST_6995 @yahooo @gooogle @yandexxx
-Feature: kZ6rTnOHqNName
-Check that story can be created.
+@ST_6995 @2BXU @BEMN @LCOU
+Feature: eQ1t9wYL9VName
+dAv4kC17PAStoryDescription
