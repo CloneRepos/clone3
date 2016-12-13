@@ -1,3 +1,3 @@
-@ST_6990 @tag1 @tag2 @tag3
-Feature: FiLfRpqWvlName
-Check that story can be created.
+@ST_6990 @SBGF @E9RS @P33I
+Feature: iXTPbEqsP2Name
+UwfpdqO6gWStoryDescription
