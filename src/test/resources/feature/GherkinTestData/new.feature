@@ -1,6 +1,6 @@
-@ST_6877 @CM53 @G7QO @OTUS
-Feature: XOnA0nevadName
-MWJcofyHf7StoryDescription
+@ST_6877 @HDIV @M8AW @NRKK
+Feature: I6Obnel5q5Name
+UCE4W2U61GStoryDescription
 
 @SC_45252 @tag
 Scenario: scenario
