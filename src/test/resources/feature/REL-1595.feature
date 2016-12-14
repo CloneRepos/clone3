@@ -1,6 +1,6 @@
-@ST_6865 @S99Z @FYQ2 @NJQ8
-Feature: fC9Dn9XOboName
-JFAJ1pmjdpStoryDescription
+@ST_6865 @1MGJ @VCHK @JVJY
+Feature: ULtZsCDRecName
+BBi1TaMxUQStoryDescription
 
 Background: 
 
