@@ -1,6 +1,6 @@
-@ST_6878 @22KN @49SH @GQWG
-Feature: lWGlqTt2qOName
-nthwlJf2cPStoryDescription
+@ST_6878 @DCVD @J1RI @MGDL
+Feature: 77900ZP7DfName
+QGTI1E488gStoryDescription
 
 @SC_45253
 Scenario: 2
