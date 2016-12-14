@@ -1,6 +1,6 @@
-@ST_6878 @DCVD @J1RI @MGDL
-Feature: 77900ZP7DfName
-QGTI1E488gStoryDescription
+@ST_6878 @4J93 @BBIX @T6GT
+Feature: YDxBU0VvBoName
+OOPM8HbNNaStoryDescription
 
 @SC_45253
 Scenario: 2
