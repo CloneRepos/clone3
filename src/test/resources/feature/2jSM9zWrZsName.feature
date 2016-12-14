@@ -1,3 +1,3 @@
-@ST_7172 @one @two @three
-Feature: JuPIzs0DYfName
-Check that story can be created.
+@ST_7172 @II2Z @C4F9 @2ALS
+Feature: BTBjeL0qRhName
+ys9LKdFI2dStoryDescription
