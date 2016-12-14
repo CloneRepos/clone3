@@ -1,6 +1,6 @@
-@ST_6880 @EKXA @N688 @5EON
-Feature: ZqBB2HuJ3BName
-5q5X7TzZJQStoryDescription
+@ST_6880 @SOTF @AHMS @X5R1
+Feature: sg79euFj4uName
+itAH7Usus8StoryDescription
 
 Background: new name changed
 
