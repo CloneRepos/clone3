@@ -1,6 +1,6 @@
-@ST_6880 @SOTF @AHMS @X5R1
-Feature: sg79euFj4uName
-itAH7Usus8StoryDescription
+@ST_6880 @ASC6 @FQCE @GDY5
+Feature: YVI55TKl5RName
+DvFBndI3DdStoryDescription
 
 Background: new name changed
 
