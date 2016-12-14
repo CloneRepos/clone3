@@ -1,3 +1,3 @@
-@ST_7169 @one @two @three
-Feature: 6PUCPjSPylName
-Check that story can be created.
+@ST_7169 @OZXB @3FTA @MD9X
+Feature: gFmLkOnmltName
+n6jhtdVugNStoryDescription
