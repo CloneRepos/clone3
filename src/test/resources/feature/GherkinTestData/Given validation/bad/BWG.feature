@@ -1,6 +1,6 @@
-@ST_6879 @FU1S @ROVG @WFHX
-Feature: TyqA9a1NsHName
-1I9qAs2Qa6StoryDescription
+@ST_6879 @HFZF @XINB @YNCF
+Feature: WNvBaIyyroName
+crimnEsGesStoryDescription
 
 @SC_45257 @Critical @Test_1
 Scenario: Check scenario
