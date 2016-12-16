@@ -1,6 +1,6 @@
-@ST_6878 @4J93 @BBIX @T6GT
-Feature: YDxBU0VvBoName
-OOPM8HbNNaStoryDescription
+@ST_6878 @EWCE @XZCP @CUES
+Feature: kEA2Vn7FjfName
+XCGJbYNUhXStoryDescription
 
 @SC_45253
 Scenario: 2
