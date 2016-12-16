@@ -1,6 +1,6 @@
-@ST_6867 @4AV7 @QIJ6 @UO8K
-Feature: nuXdD0A6uiName
-subIOVEgYhStoryDescription
+@ST_6867 @BPW8 @30C0 @KQC2
+Feature: MsPYAK8WCbName
+x6abWhBipKStoryDescription
 
 @SC_45244 @Critical
 Scenario: First scenario
