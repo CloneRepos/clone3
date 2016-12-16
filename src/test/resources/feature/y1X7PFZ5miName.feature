@@ -1,3 +1,3 @@
-@ST_7413 @one @two @three
-Feature: MWtpzgTIelName
-Check that story can be created.
+@ST_7413 @DX0R @TAZV @TK5C
+Feature: IQhKiLVPsyName
+UFVTEhd5KQStoryDescription
