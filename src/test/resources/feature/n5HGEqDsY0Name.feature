@@ -1,3 +1,3 @@
-@ST_7412 @tag1 @tag2 @tag3
-Feature: aKo9c8YTqiName
-Check that story can be created.
+@ST_7412 @YX1R @ROWM @G6GH
+Feature: dSObMjLOREName
+2DSv2zM0irStoryDescription
