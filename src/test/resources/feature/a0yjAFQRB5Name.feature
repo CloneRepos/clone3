@@ -1,3 +1,3 @@
-@ST_7414 @yahooo @gooogle @yandexxx
-Feature: CaCdPl7XeAName
-Check that story can be created.
+@ST_7414 @DBUB @T4I3 @GJAT
+Feature: zzPfqz2ZqqName
+8VtlSAqGB9StoryDescription
